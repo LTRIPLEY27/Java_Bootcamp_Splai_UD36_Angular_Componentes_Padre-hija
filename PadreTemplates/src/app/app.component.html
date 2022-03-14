@@ -1,0 +1,14 @@
+<div>
+  <!--ANEXO DEL "#"A LA INSTANCIA DE LA CLASE QUE DESEEMOS LLAMAR PARA HACER USO DE SUS MÉTODOS-->
+  <app-selector-numerico minimo = "1" maximo = "10" #selector></app-selector-numerico>
+  <br>
+  <!--BOTONES CON LLAMADO A LAS FUNCIONES DE LA CLASE SEFINIDA CON EL "#"-->
+  <button (click) = "selector.fijar(1)">Fijar en 1</button><br>
+  <button (click) = "selector.fijar(5)">Fijar en 5</button><br>
+  <button (click) = "selector.fijar(10)">Fijar en 10</button><br>
+
+  <br>
+  <!--SEGUNDA INSTANCIA-->
+  <app-selector-numerico minimo="1" maximo="15" #selector2></app-selector-numerico>
+
+</div>
