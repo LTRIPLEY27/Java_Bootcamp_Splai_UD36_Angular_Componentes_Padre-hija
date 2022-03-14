@@ -1,0 +1,7 @@
+<div style="text-align: center;">
+    <h1>Prueba del componnete hija a padre</h1>
+    <!--INSTANCIACION DEL CRONOMETR CON ENVÍOS DE PARÁMETROS Y EVENTOS-->
+    <app-cronometro inicio="10" (multiplo)="actualiza($event)"></app-cronometro> <!--INSTANCIAS DE CRONOMETRO-->
+    <h2>Evento</h2>
+    <h3>{{mensaje}}</h3> <!--PARÁMETRO POR INTERPOLACIÓN-->
+</div>
