@@ -1,0 +1,23 @@
+<h1>Bienvenidos al proyecto {{title}}}</h1>
+
+<div style="text-align: center;">
+    <!--LLAMADO A 3 INSTANCIAS DEL COMPONENTE HIJO: DADO CON PARÁMETROS DESDE LA CLASE PADRE}-->
+    <h3 style="color: blue;">DE FORMA INTERPOLADA</h3>
+
+    <app-dado valor = {{numero1}}></app-dado>
+    <app-dado valor = {{numero2}}></app-dado>
+    <app-dado valor = {{numero3}}></app-dado>
+
+     <!--LLAMADO A 3 INSTANCIAS DEL COMPONENTE HIJO: DADO CON PARÁMETROS DESDE LA CLASE PADRE}-->
+    <h3 style="color: rgb(212, 93, 143);">CON BINDING</h3>
+    <app-dado [valor] = "numero1"></app-dado>
+    <app-dado [valor] = "numero2"></app-dado>
+    <app-dado [valor] = "numero3"></app-dado>
+
+    <!--BOTTOM QUE DISPARA EL EVENTO CON LA FUNCIÓN DEFINIDA EN LA CLASE PADRE-->
+    <hr>
+    <button (click)="pushing()">Prove your Luck</button>
+    <hr>--
+    <hr>
+    <p>Resultado : {{resultado}}</p> <!--LLAMADO A LA VARIABLE RESULTADO DEL COMPONENTE PADRE-->
+</div>
