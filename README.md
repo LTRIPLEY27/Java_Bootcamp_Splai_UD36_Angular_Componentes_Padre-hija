@@ -44,3 +44,34 @@ UD36  -  Componentes Angular
                                                                     
                                                                     
   ![image](https://user-images.githubusercontent.com/36207623/159035783-b6c0b0c0-32ab-492f-ab98-b955b76f51f2.png)
+  
+  
+                                                                    EJERCICIO 11 - FIJAR
+                                                                  
+                                                                  
+ 
+    
+  - ENUNCIADO:
+
+
+![image](https://user-images.githubusercontent.com/36207623/159037694-5e904a20-8dee-45d6-9f8e-28ae7a79c74a.png)
+
+
+                                                                    RESULTADO :
+                                                                    
+                                                                    
+![image](https://user-images.githubusercontent.com/36207623/159037767-fe01e4b7-69e3-4ab5-8b85-65c8f3c567ac.png)
+
+
+                                                                    EJERCICIO 12 - FIJAR
+                                                                  
+                                                                  
+    
+  - ENUNCIADO:
+
+
+![image](https://user-images.githubusercontent.com/36207623/159038085-59f99dcb-6ff8-48f7-8f3d-ad99b4fd59b4.png)
+
+
+                                                                    RESULTADO :
+
