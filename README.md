@@ -70,8 +70,41 @@ UD36  -  Componentes Angular
   - ENUNCIADO:
 
 
-![image](https://user-images.githubusercontent.com/36207623/159038085-59f99dcb-6ff8-48f7-8f3d-ad99b4fd59b4.png)
+![image](https://user-images.githubusercontent.com/36207623/159044426-06d243a9-22ad-471f-8566-2a83caf31e50.png)
+
 
 
                                                                     RESULTADO :
 
+![image](https://user-images.githubusercontent.com/36207623/159044466-3d553cc6-889a-4ad4-ae24-494ec4cf6b3a.png)
+
+
+                                                                    EJERCICIO 13 - PROPERTY BINDING
+                                                                  
+                                                                  
+    
+  - ENUNCIADO:
+
+
+![image](https://user-images.githubusercontent.com/36207623/159045099-571f21b2-d8de-4281-ae84-61d087d45b8d.png)
+
+
+                                                                    RESULTADO :
+                                                                    
+![image](https://user-images.githubusercontent.com/36207623/159045271-85363339-e586-4d42-a78b-9a2a5cb4ef5a.png)
+                                                                    
+                                                                    
+                                                                    EJERCICIO 14 - PROPERTY BINDING
+                                                                  
+                                                                  
+    
+  - ENUNCIADO:
+
+
+![image](https://user-images.githubusercontent.com/36207623/159045424-ca482af3-ebe9-4445-a878-ed3499461c5a.png)
+
+
+                                                                    RESULTADO :
+                                                                    
+ 
+ ![image](https://user-images.githubusercontent.com/36207623/159045713-dcc59967-eafc-425f-bbf1-e297cf399f52.png)
