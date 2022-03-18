@@ -1,9 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-//IMPORT DE LOS COMPONENTES
-import { AppRoutingModule } from './app-routing-module';
-
+import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ElementosModule } from './elementos/elementos.module';
 
@@ -14,7 +12,7 @@ import { ElementosModule } from './elementos/elementos.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    ElementosModule
+    ElementosModule  //DECLARACIÓN DEL MÓDULO ELEMENTOS DENTRO DE LOS IMPORTS
   ],
   providers: [],
   bootstrap: [AppComponent]

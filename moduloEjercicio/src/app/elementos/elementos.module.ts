@@ -11,8 +11,8 @@ import { DadoComponent } from './dado/dado.component';
   imports: [
     CommonModule
   ],
-  exports: [
+  exports : [  //INCORPORACIÓN DEL 'EXPORTS' DEL COMPONENTE DADO
     DadoComponent
-  ]
+  ],
 })
 export class ElementosModule { }
